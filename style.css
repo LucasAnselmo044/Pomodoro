@@ -1,0 +1,14 @@
+body {
+  background: #f95959;
+}
+
+#start {
+  background-color: red;
+  font: black;
+}
+
+#timer {
+  color: black;
+  text-align: center;
+  font-size: 200px;
+}
