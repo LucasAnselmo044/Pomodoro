@@ -5,10 +5,18 @@ body {
 #start {
   background-color: red;
   font: black;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
 }
 
 #timer {
   color: black;
   text-align: center;
-  font-size: 200px;
+  font-size: 140px;
+}
+
+#parteprincipal {
+  display: block;
+  position: relative;
 }
